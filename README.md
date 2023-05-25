@@ -4,6 +4,19 @@ This Skoltech Deep Learning Course 2023 final project " - Ink detection ofHercul
 
 ## Installation
 
+You can download this repo by simply:
+
+        git clone https://github.com/vladmd22/NeRF_this
+
+The requred packages can be installed from ``requirements.txt``:
+
+        pip install -r requirements.txt
+
+Or by creating custom environment nerf-this by simply running:
+
+        conda create env
+
+
 ``` https://github.com/vladmd22/Incas ```
 
 
