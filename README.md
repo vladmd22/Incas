@@ -18,6 +18,7 @@ At first we tried to use pretrained model that gave us f0.5 score equal to 0.26.
 
 Also, we tried using 3d convolutional neural network and we took the following approach: we trained the model on some subset of layers of the scan and checked the performace, so this was done to find suitable depth at which letters occur. Each time we predicted some letter and trained on everything except the letter. For the letter f0.5 score raised to 0.66:
 ![sub](sublayers_res.jpg)
+
 As you can see, the letter is much more clearly seen. 
 ## Further improvement...
 
