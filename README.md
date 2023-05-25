@@ -22,10 +22,15 @@ Define the optimal augmentations for our dataset
 
 ## Installation
 
-You can download this repo by simply:
+You can download this repo simply by cloning:
 
         git clone https://github.com/vladmd22/Incas
 
+The data is given via the link:
+
+        https://drive.google.com/drive/folders/1R8uubGEevPI9ao0tikSnQSt17e4LOtJv?usp=share_link
+       
+All dependencies are solved inside notebooks via !pip install.
 
 ## Team
 
