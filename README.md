@@ -1,7 +1,11 @@
 #  ![](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) Vesuvius Challenge - Ink Detection 
 
-
 This Skoltech Deep Learning Course 2023 final project " - Ink detection ofHerculaneum scrolls"
+
+## Installation
+
+``` https://github.com/vladmd22/Incas ```
+
 
 The goal is to detecting ink from 3D X-ray scans and reading the contents.
 Due to the heat of the volcano, the scrolls were carbonized, and are now impossible to open without breaking them.
