@@ -22,7 +22,8 @@ Also, we tried using 3d convolutional neural network and we took the following a
 As you can see, the letter is much more clearly seen. 
 ## Further improvement...
 
-It would be great to separate the task on two steps: learn the model that soomehow predicts the depth the letters and the model that predicts letters themselves. Due to computational limits this task is not that easy. This approach also would perform better since we could use it on full dataset, and not only on one fragment.
+It would be great to separate the task on two steps: learn the model that soomehow predicts depth of letters and the model that predicts letters themselves. Due to computational limits this task is not that easy. This approach also would perform better since we could use it on full dataset, and not only on one fragment.
+
 Also, it is worth comparing different models such as Unet, Unet++, DeepLabV3+ and defining the optimal augmentations for our dataset.
 
 ## Installation
