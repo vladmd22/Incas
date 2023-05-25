@@ -1,5 +1,5 @@
 #  Vesuvius Challenge - Ink Detection - Kaggle competition
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 This Skoltech Deep Learning Course 2023 final project " - Ink detection ofHerculaneum scrolls"
 
