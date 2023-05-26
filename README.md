@@ -5,7 +5,8 @@ This Skoltech Deep Learning Course 2023 final project "Ink detection of Herculan
 
 ## Problem statement
 
-The Kaggle competition hosts the Ink Detection Progress Prize ($100,000 in prizes) of Vesuvius challenge, which focuses on the sub-problem of detecting ink from 3d x-ray scans of fragments of papyrus (figure 2) which became detached from some of the excavated scrolls.
+Vesuvius Challenge is the $1,000,000+ challenge to resurrect an ancient library from the ashes of a volcano. In this competition you are tasked with detecting ink from 3D X-ray scans and reading the contents. Thousands of scrolls were part of a library located in a Roman villa in Herculaneum, a town next to Pompeii. This villa was buried by the Vesuvius eruption nearly 2000 years ago. Due to the heat of the volcano, the scrolls were carbonized, and are now impossible to open without breaking them. These scrolls were discovered a few hundred years ago and have been waiting to be read using modern techniques.
+The Kaggle competition hosts the Ink Detection Progress Prize ($100,000 in prizes) of Vesuvius challenge, which focuses on the sub-problem of detecting ink from 3d x-ray scans of fragments of papyrus which became detached from some of the excavated scrolls.
 The goal is to detecting ink from 3D X-ray scans and reading the contents.
 Due to the heat of the volcano, the scrolls were carbonized, and are now impossible to open without breaking them.
 We will try to find the best model to get the maximum accuracy.
